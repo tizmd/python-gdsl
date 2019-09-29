@@ -1,0 +1,2 @@
+from gdsl_callbacks cimport callbacks_t
+cdef init_rreil_builder_callbacks(callbacks_t _callbacks)
